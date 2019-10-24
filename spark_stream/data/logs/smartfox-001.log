@@ -1,0 +1,77 @@
+18 Feb 2019 | 08:00:01,848 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: game task number 4 reporting in 
+18 Feb 2019 | 08:00:09,098 | INFO  | New I/O worker #1 | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 25616, 
+Type: WEBSOCKET, Logged: No, IP: 192.168.10.120:50838 }
+18 Feb 2019 | 08:00:09,101 | INFO  | New I/O worker #4 | bitswarm.sessions.DefaultSessionManager |     | Session created: { Id: 25619, Type: WEBSOCKET, Logged: No, IP: 192.168.10.120 } on Server port: 8888 <---> 50900
+18 Feb 2019 | 08:00:10,052 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: game task number tutorial reporting in 
+18 Feb 2019 | 08:00:11,375 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: game task number 5 reporting in 
+18 Feb 2019 | 08:00:12,481 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: game task number 7 reporting in 
+18 Feb 2019 | 08:00:12,887 | INFO  | pool-1-thread-3 | Extensions |     | {Game}: game task number 6 reporting in 
+18 Feb 2019 | 08:00:13,705 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: start saving 1 
+18 Feb 2019 | 08:00:13,713 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: stop saving 1 
+18 Feb 2019 | 08:00:13,903 | INFO  | pool-1-thread-4 | Extensions |     | {Game}: start saving tutorial 
+18 Feb 2019 | 08:00:13,904 | INFO  | pool-1-thread-4 | Extensions |     | {Game}: stop saving tutorial 
+18 Feb 2019 | 08:00:14,891 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: start saving 2 
+18 Feb 2019 | 08:00:14,915 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: stop saving 2 
+18 Feb 2019 | 08:00:15,510 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: start saving 3 
+18 Feb 2019 | 08:00:15,524 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: stop saving 3 
+18 Feb 2019 | 08:00:16,536 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: start saving 4 
+18 Feb 2019 | 08:00:16,561 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: stop saving 4 
+18 Feb 2019 | 08:00:17,052 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: start saving 5 
+18 Feb 2019 | 08:00:17,054 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: stop saving 5 
+18 Feb 2019 | 08:00:17,187 | INFO  | pool-1-thread-3 | Extensions |     | {Game}: game task number 1 reporting in 
+18 Feb 2019 | 08:00:17,895 | INFO  | pool-1-thread-4 | Extensions |     | {Game}: start saving 6 
+18 Feb 2019 | 08:00:17,899 | INFO  | pool-1-thread-4 | Extensions |     | {Game}: stop saving 6 
+18 Feb 2019 | 08:00:18,386 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: start saving 7 
+18 Feb 2019 | 08:00:18,389 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: stop saving 7 
+18 Feb 2019 | 08:00:19,103 | INFO  | New I/O worker #3 | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 25618, Type: WEBSOCKET, Logged: No, IP: 192.168.10.87:44133 }
+18 Feb 2019 | 08:00:19,103 | INFO  | New I/O worker #2 | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 25617, Type: WEBSOCKET, Logged: No, IP: 192.168.10.87:44132 }
+18 Feb 2019 | 08:00:19,110 | INFO  | New I/O worker #5 | bitswarm.sessions.DefaultSessionManager |     | Session created: { Id: 25620, Type: WEBSOCKET, Logged: No, IP: 192.168.10.87 } on Server port: 8888 <---> 44188
+18 Feb 2019 | 08:00:19,348 | INFO  | New I/O worker #6 | bitswarm.sessions.DefaultSessionManager |     | Session created: { Id: 25621, Type: WEBSOCKET, Logged: No, IP: 192.168.10.87 } on Server port: 8888 <---> 44193
+18 Feb 2019 | 08:00:28,838 | INFO  | pool-1-thread-3 | Extensions |     | {Game}: start GlobalPlayersSaver  
+18 Feb 2019 | 08:00:28,839 | INFO  | pool-1-thread-3 | Extensions |     | {Game}: stop GlobalPlayersSaver  
+18 Feb 2019 | 08:00:31,399 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: AlliancesTask! 
+18 Feb 2019 | 08:00:31,780 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: add leader 2308 EROBERER 
+18 Feb 2019 | 08:00:31,780 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: add leader 1197 GAIA 
+18 Feb 2019 | 08:00:31,780 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: add leader 2148 test27 
+18 Feb 2019 | 08:00:31,780 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: add leader 2307 StENDup 
+18 Feb 2019 | 08:00:31,780 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: add leader 2397 jjghgjh 
+18 Feb 2019 | 08:00:31,780 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: add leader 3120 BWT 
+18 Feb 2019 | 08:00:31,780 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: add leader 2436 Friedhof 
+18 Feb 2019 | 08:00:31,780 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: add leader 2063 TESTBEST 
+18 Feb 2019 | 08:00:31,780 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: add leader 2618 FAIR 
+18 Feb 2019 | 08:00:31,780 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: add leader 2946 SEK 
+18 Feb 2019 | 08:00:31,780 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: add leader 3407 new 
+18 Feb 2019 | 08:00:31,780 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: add leader 3101 T20Alliance 
+18 Feb 2019 | 08:00:31,791 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: check leader camper EROBERER 
+18 Feb 2019 | 08:00:31,791 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: check leader fuchs GAIA 
+18 Feb 2019 | 08:00:31,791 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: check leader ralwal test27 
+18 Feb 2019 | 08:00:31,791 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: check leader killemister1 StENDup 
+18 Feb 2019 | 08:00:31,791 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: check leader holger2 jjghgjh 
+18 Feb 2019 | 08:00:31,791 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: check leader natali BWT 
+18 Feb 2019 | 08:00:31,791 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: check leader terminator Friedhof 
+18 Feb 2019 | 08:00:31,791 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: check leader test TESTBEST 
+18 Feb 2019 | 08:00:31,791 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: check leader mj2804 FAIR 
+18 Feb 2019 | 08:00:31,791 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: check leader angelus SEK 
+18 Feb 2019 | 08:00:31,791 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: check leader natali_test2 new 
+18 Feb 2019 | 08:00:31,791 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: check leader test123 T20Alliance 
+18 Feb 2019 | 08:00:31,791 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: AlliancesTask end! 
+18 Feb 2019 | 08:00:37,240 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: game task number 2 reporting in 
+18 Feb 2019 | 08:00:43,705 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: start saving 1 
+18 Feb 2019 | 08:00:43,713 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: stop saving 1 
+18 Feb 2019 | 08:00:43,903 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: start saving tutorial 
+18 Feb 2019 | 08:00:43,904 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: stop saving tutorial 
+18 Feb 2019 | 08:00:43,905 | INFO  | pool-1-thread-4 | Extensions |     | {Game}: deleted 0 units 
+18 Feb 2019 | 08:00:44,891 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: start saving 2 
+18 Feb 2019 | 08:00:44,914 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: stop saving 2 
+18 Feb 2019 | 08:00:45,235 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: game task number 3 reporting in 
+18 Feb 2019 | 08:00:45,510 | INFO  | pool-1-thread-3 | Extensions |     | {Game}: start saving 3 
+18 Feb 2019 | 08:00:45,524 | INFO  | pool-1-thread-3 | Extensions |     | {Game}: stop saving 3 
+18 Feb 2019 | 08:00:46,536 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: start saving 4 
+18 Feb 2019 | 08:00:46,563 | INFO  | pool-1-thread-1 | Extensions |     | {Game}: stop saving 4 
+18 Feb 2019 | 08:00:47,052 | INFO  | pool-1-thread-4 | Extensions |     | {Game}: start saving 5 
+18 Feb 2019 | 08:00:47,053 | INFO  | pool-1-thread-4 | Extensions |     | {Game}: stop saving 5 
+18 Feb 2019 | 08:00:47,895 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: start saving 6 
+18 Feb 2019 | 08:00:47,899 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: stop saving 6 
+18 Feb 2019 | 08:00:48,386 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: start saving 7 
+18 Feb 2019 | 08:00:48,388 | INFO  | pool-1-thread-2 | Extensions |     | {Game}: stop saving 7 
+18 Feb 2019 | 08:00:49,114 | INFO  | New I/O worker #4 | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 25619, Type: WEBSOCKET, Logged: No, IP: 192.168.10.120:50900 }
